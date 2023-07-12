@@ -14,7 +14,7 @@ const imprimirHeroe = ({nombre, apellido, poder, edad = 0}) => {
 }
 
 imprimirHeroe(Deadpool)
-const heroes = ['Deapoll', 'Supeman', 'Batman'];
+const heroes = ['Deapoll', 'Superman', 'Batman'];
 
 const [, , h3] =heroes;
 console.log(h3)
